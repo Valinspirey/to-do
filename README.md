@@ -4,3 +4,6 @@ Plans for today
 - [ ] education tasks
 
 Plans for tomorrow
+
+- [ ] read my book
+- [ ] sport
